@@ -1,2 +1,2 @@
-# tiny
+# tAIny
 A tinyURL service
